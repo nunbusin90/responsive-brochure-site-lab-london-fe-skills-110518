@@ -41,6 +41,7 @@ header, h1 {
   width: 100%;
   max-width: 850px;
   margin: auto;
+  margin-top: 40px;
 }
 
 .yoga-classes img {
