@@ -10,8 +10,7 @@ header, h1 {
   width: 100%;
   text-transform: uppercase;
   color: #000;
-  position: relative;
-  float: left;
+  text-align: center;
 }
 
 .nav a {
@@ -24,14 +23,13 @@ header, h1 {
 }
 
 .nav-left, .nav-right {
-  max-width: 500px;
-  float: left;
   padding: 20px;
   margin-top: 5%;
+  display: inline-block;
 }
 
 .nav-logo {
-  float: left;
+  display: inline-block;
 }
 
 .nav-logo img {
