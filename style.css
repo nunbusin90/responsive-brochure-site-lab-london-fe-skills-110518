@@ -50,10 +50,10 @@ header, h1 {
 }
 
 .contact-detail {
-  width: 500px;
+  width: 50%;
+  display: inline-block;
   height: auto;
   background: #000;
-  position: relative;
   padding: 30px;
 }
 
