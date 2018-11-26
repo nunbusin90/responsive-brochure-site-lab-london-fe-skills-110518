@@ -1,0 +1,70 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+header, h1 {
+  display: none;
+}
+
+.nav {
+  width: 100%;
+  text-transform: uppercase;
+  color: #000;
+  position: relative;
+  float: left;
+}
+
+.nav a {
+  text-decoration: none;
+  margin: 20px;
+}
+
+.nav a span {
+  color: #000;
+}
+
+.nav-left, .nav-right {
+  max-width: 500px;
+  float: left;
+  padding: 20px;
+  margin-top: 5%;
+}
+
+.nav-logo {
+  float: left;
+}
+
+.nav-logo img {
+  width: 200px;
+}
+
+.yoga-classes {
+  width: 100%;
+  max-width: 850px;
+  margin: auto;
+}
+
+.yoga-classes img {
+  width: 380px;
+  padding: 20px;
+}
+
+.contact-detail {
+  width: 500px;
+  height: auto;
+  background: #000;
+  position: relative;
+  padding: 30px;
+}
+
+h3 {
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+
+.contact-detail p {
+    color: #fff;
+    text-align: center;
+}
