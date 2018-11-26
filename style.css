@@ -24,7 +24,8 @@ header, h1 {
 
 .nav-left, .nav-right {
   padding: 20px;
-  margin-top: 5%;
+  vertical-align: top;
+  margin-top: 
   display: inline-block;
 }
 
