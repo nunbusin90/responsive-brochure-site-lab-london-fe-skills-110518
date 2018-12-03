@@ -1,0 +1,84 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+header, h1 {
+  display: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.nav {
+  width: 100%;
+  text-transform: uppercase;
+  color: #000;
+  text-align: center;
+}
+
+.nav a {
+  text-decoration: none;
+  margin: 20px;
+}
+
+.nav a span {
+  color: #000;
+}
+
+.nav-left, .nav-right {
+  padding: 20px;
+  vertical-align: top;
+  margin-top: 70px;
+  display: inline-block;
+}
+
+.nav-logo {
+  display: inline-block;
+}
+
+.nav-logo img {
+  width: 200px;
+}
+
+.yoga-classes {
+  width: 100%;
+  margin: auto;
+  margin-top: 40px;
+  text-align: center;
+}
+
+.yoga-classes img {
+  width: 380px;
+  padding: 20px;
+}
+
+aside {
+  margin: 80px;
+}
+
+.contact-detail {
+  width: 50%;
+  display: inline-block;
+  background: #000;
+  vertical-align: top;
+  height: 450px;
+}
+
+h3 {
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+
+.contact-detail p {
+    color: #fff;
+    text-align: center;
+}
+
+.contact-map {
+  display: inline-block;
+  width: 50%;
+  vertical-align: top;
+}
